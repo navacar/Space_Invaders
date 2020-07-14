@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ABC">
+        <file>images/alien.bmp</file>
+        <file>images/Bomba.jpg</file>
+        <file>images/BombaAlien.jpg</file>
+        <file>images/ship.bmp</file>
+    </qresource>
+</RCC>
